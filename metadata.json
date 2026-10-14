@@ -1,0 +1,8 @@
+{
+  "name": "Bubble Splash",
+  "description": "A pure, minimalist full-screen white display utility for screen testing, webcam lighting, tracing, and ambient illumination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
